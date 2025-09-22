@@ -76,8 +76,6 @@ I'm always excited to collaborate on full-stack development projects, data autom
 
 **"Code is poetry written in logic"** ✨
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=yemery&countColor=%23263759&style=flat)
-
 </div>
 
 ---
