@@ -67,15 +67,6 @@ I'm a passionate **Software Engineering Student** and **Full-Stack Developer** w
 ![Laravel Jetstream](https://img.shields.io/badge/Laravel_Jetstream-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yemery&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yemery&layout=compact&theme=radical)
-
-</div>
 
 ## 🌟 Let's Connect!
 
