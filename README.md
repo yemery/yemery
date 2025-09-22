@@ -71,9 +71,9 @@ I'm a passionate **Software Engineering Student** and **Full-Stack Developer** w
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meryemajmani&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yemery&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meryemajmani&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yemery&layout=compact&theme=radical)
 
 </div>
 
@@ -85,7 +85,7 @@ I'm always excited to collaborate on full-stack development projects, data autom
 
 **"Code is poetry written in logic"** ✨
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=meryemajmani&countColor=%23263759&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=yemery&countColor=%23263759&style=flat)
 
 </div>
 
