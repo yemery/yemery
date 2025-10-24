@@ -78,7 +78,4 @@ I'm always excited to collaborate on full-stack development projects, data autom
 
 </div>
 
----
-<div align="center">
-Made with ❤️ by Yemery | Software Engineer & Full-Stack Developer
-</div>
+
