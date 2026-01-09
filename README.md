@@ -1,4 +1,4 @@
-# Hi there, I'm Yemery 👋
+# Hi there, I'm Yemery 
 <div align="center">
 
 ![Coding Animation](https://github.com/yemery/yemery/blob/main/Thorfinn.gif)
@@ -13,7 +13,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Software Engineering Student** and **Full-Stack Developer** who specializes in building scalable web applications, APIs, and data-driven solutions. I love creating efficient, secure architectures and turning complex problems into elegant digital solutions.
 
