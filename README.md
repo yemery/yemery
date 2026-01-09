@@ -17,11 +17,11 @@
 
 I'm a passionate **Software Engineering Student** and **Full-Stack Developer** who specializes in building scalable web applications, APIs, and data-driven solutions. I love creating efficient, secure architectures and turning complex problems into elegant digital solutions.
 
-- 🔭 I'm currently working on **planning platforms with predictive analytics and data visualization**
-- 🌱 I'm currently learning **advanced cloud architectures and emerging technologies**
-- 👯 I'm looking to collaborate on **full-stack web applications and data automation projects**
-- 💬 Ask me about **React, Laravel, Spring Boot, web scraping, and database design**
-- ⚡ Fun fact: **I can turn messy data into beautiful insights!** 📊
+-  I'm currently working on **planning platforms with predictive analytics and data visualization**
+-  I'm currently learning **advanced cloud architectures and emerging technologies**
+-  I'm looking to collaborate on **full-stack web applications and data automation projects**
+-  Ask me about **React, Laravel, Spring Boot, web scraping, and database design**
+-  Fun fact: **I can turn messy data into beautiful insights!** 📊
 
 ## 🛠️ Technologies & Skills
 
@@ -68,14 +68,5 @@ I'm a passionate **Software Engineering Student** and **Full-Stack Developer** w
 
 
 
-## 🌟 Let's Connect!
-
-I'm always excited to collaborate on full-stack development projects, data automation solutions, or discuss the latest in web technologies and software architecture!
-
-<div align="center">
-
-**"Code is poetry written in logic"** ✨
-
-</div>
 
 
